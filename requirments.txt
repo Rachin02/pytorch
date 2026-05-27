@@ -5,3 +5,4 @@ scikit-learn
 torchinfo
 matplotlib
 optuna
+torchvision
